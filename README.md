@@ -9,8 +9,8 @@ Todo o código foi feito utilizando C++
 Site da Universidade maker da Filipe flop, com o kit Maker Arduino iniciante
 
 * [Universidade Maker](https://www.filipeflop.com/universidade/aprenda-arduino-em-casa-iniciante/material-necessario/) 
-* 
-[Kit Maker Arduino Iniciante](https://www.filipeflop.com/produto/kit-maker-arduino-iniciante/)
+
+*[Kit Maker Arduino Iniciante](https://www.filipeflop.com/produto/kit-maker-arduino-iniciante/)
 
 ## ⚙️ Construído com
 
